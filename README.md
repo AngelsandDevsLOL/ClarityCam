@@ -1,16 +1,9 @@
-# attempt_3
+# ClarityCam
 
-A new Flutter project.
+Take a photo, get a list of objects. ClarityCam helps you spot what you're looking for in cluttered spaces—fast and easy. Designed for the Hack United Hackathon, that ultimately, I didn't finish (or submit) on time! I want to keep working on it until I get something I'm satisfied with. 
 
 ## Getting Started
 
-This project is a starting point for a Flutter application.
+To run this program:
 
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+Good luck.
